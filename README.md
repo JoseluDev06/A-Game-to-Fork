@@ -1,7 +1,7 @@
 # Ejercicio 2 GIT  -- Entornos de Desarrollo
 
 ## Funcionalidades añadidas:
--Velocidad de las bolas aumentada.
+-Velocidad de las bolas aumentada. <br>
 -Tamaño de las bolas reducido.
 
 ## Proceso: 
